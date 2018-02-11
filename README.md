@@ -18,5 +18,6 @@ optional arguments:
                         Write to output file (or stdout)
 
 #To Run Use the below command
-python currency_convert.py --field 2 --multiplier 0.8 -i data.csv -o data-fr2.csv 
+
+# python currency_convert.py --field 2 --multiplier 0.8 -i data.csv -o data-fr2.csv 
 
